@@ -7,7 +7,7 @@
       </span>
     </h1>
     <div class="nhsuk-inset-text">
-      <p><strong>Select the card title</strong> or <strong>read more</strong> link to read more about that principle and examples of the supporting data.</p>
+      <p>Select the <strong>read more</strong> link to read more about that principle and examples of the supporting data.</p>
     </div>
     <div class="nhsuk-card cieh-card__grey">
       <div class="nhsuk-card__header nhsuk-card__content ">
@@ -78,7 +78,7 @@
             <figure class="nhsuk-image" style="width: 100%;">
               <img class="nhsuk-image__img" src="../assets/img/system-diagram.png" alt="Diagram showing the Systems Engineering for Patient Safety framework, or SEIPS.">
               <figcaption class="nhsuk-image__caption">
-                Systems Engineering for Patient Safety (SEIPS) framework
+                Systems Engineering for Patient Safety (SEIPS) framework*
               </figcaption>
             </figure>
           </div>
@@ -103,6 +103,9 @@
                   <strong>Human well-being and overall system performance:</strong> HF/E considers a broad range of outcomes, including human well-being and quality of working life (e.g., satisfaction, stress, fatigue), and system performance (e.g., safety, effectiveness).
                 </li>
               </ul>
+              <p class="nhsuk-body-s"><em>
+                <strong>*</strong> HOLDEN, R. J., CARAYON, P., GURSES, A. P., HOONAKKER, P., HUNDT, A. S., OZOK, A. A. & RIVERA-RODRIGUEZ, A. J. 2013. SEIPS 2.0: a human factors framework for studying and improving the work of healthcare professionals and patients. Ergonomics, 56, 1669-1686</em>
+              </p>
             </div>
           </details>
         </div>
@@ -133,13 +136,13 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-1">Understand people's needs and capabilities</a>
+                  Understand people's needs and capabilities
                 </h2>
               </div>
               <div class="nhsuk-card__content">
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-users" class="color-cieh-red" transform="grow-5 left-5" /></span> Who is involved?</li>
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-bullseye-arrow" class="color-cieh-red" transform="grow-5 left-5" /></span> What are their goals?</li>
+                  <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible"><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-users" class="color-cieh-red" transform="grow-5 left-5" /></span> Who is involved?</li>
+                  <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible"><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-bullseye-arrow" class="color-cieh-red" transform="grow-5 left-5" /></span> What are their goals?</li>
                   <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-list-check" class="color-cieh-red" transform="grow-5 left-5" /></span> What are their characteristics?</li>
                 </ul>
               </div>
@@ -159,7 +162,7 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-2">Describe the tasks people do</a>
+                  Describe the tasks people do
                 </h2>
               </div>
               <div class="nhsuk-card__content">
@@ -190,7 +193,7 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-3">Consider tools and equipment</a>
+                  Consider tools and equipment
                 </h2>
               </div>
               <div class="nhsuk-card__content">
@@ -200,9 +203,9 @@
                       <li>
                         <span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-toolbox" class="color-cieh-red" transform="grow-40 down-50" /></span>
                         <ul class="fa-ul">
-                          <li>What is it going to be used for?</li>
-                          <li>How is it going to be used?</li>
-                          <li>Where is it going to be used?</li>
+                          <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">What is it going to be used for?</li>
+                          <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">How is it going to be used?</li>
+                          <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Where is it going to be used?</li>
                           <li>How easily can it be moved, maintained, cleaned and stored?</li>
                         </ul>
                       </li>
@@ -213,8 +216,8 @@
                       <li>
                         <span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-user-doctor" class="color-cieh-red" transform="grow-40 down-50" /></span>
                         <ul class="fa-ul">
-                          <li>Who is going to use it?</li>
-                          <li>What are the user's characteristics, capabilities, and needs?</li>
+                          <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Who is going to use it?</li>
+                          <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">What are the user's characteristics, capabilities, and needs?</li>
                           <li>How easy is it to understand and use it?</li>
                         </ul>
                       </li>
@@ -237,13 +240,13 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-4">Assess the physical environment</a>
+                  Assess the physical environment
                 </h2>
               </div>
               <div class="nhsuk-card__content">
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-map" class="color-cieh-red" transform="grow-5 left-5" /></span> Layout</li>
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-location-pin" class="color-cieh-red" transform="grow-5 left-5" /></span> Positioning of equipment</li>
+                  <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible"><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-map" class="color-cieh-red" transform="grow-5 left-5" /></span> Layout</li>
+                  <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible"><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-location-pin" class="color-cieh-red" transform="grow-5 left-5" /></span> Positioning of equipment</li>
                   <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-volume" class="color-cieh-red" transform="grow-5 left-5" /></span> Noise levels</li>
                 </ul>
               </div>
@@ -262,7 +265,7 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-5">Analyse organisational structures and processes</a>
+                  Analyse organisational structures and processes
                 </h2>
               </div>
               <div class="nhsuk-card__content">
@@ -270,9 +273,9 @@
                   <li>
                     <span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-sitemap" class="color-cieh-red" transform="grow-40 down-50" /></span>
                     <ul class="fa-ul">
-                      <li>Procurement</li>
-                      <li>Workforce planning</li>
-                      <li>Estates and infrastructure planning</li>
+                      <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Procurement</li>
+                      <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Workforce planning</li>
+                      <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Estates and infrastructure planning</li>
                       <li>Attitudes towards risk and safety</li>
                     </ul>
                   </li>
@@ -312,14 +315,14 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-6">Promote autonomy and professional growth</a>
+                  Promote autonomy and professional growth
                 </h2>
               </div>
               <div class="nhsuk-card__content">
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-scale-balanced" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Equitable access to career progression and recruitment</li>
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-head-side-brain" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Effective training and supervision across organisations</li>
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-users-rays" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Flexible skill mix and staff mobility</li>
+                  <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible"><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-scale-balanced" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Equitable access to career progression and recruitment</li>
+                  <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible"><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-head-side-brain" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Effective training and supervision across organisations</li>
+                  <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible"><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-users-rays" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Flexible skill mix and staff mobility</li>
                   <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-hand-holding-heart" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Psychologically safe environment</li>
                 </ul>
               </div>
@@ -338,14 +341,14 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-7">Focus on the needs of patients in the community</a>
+                  Focus on the needs of patients in the community
                 </h2>
               </div>
               <div class="nhsuk-card__content">
                 <ul class="fa-ul">
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-route" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Access to diagnostic services  quicker and closer to home</li>
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-monitor-waveform" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Enhance diagnostic capacity in primary care</li>
-                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-magnifying-glass-location" class="color-cieh-yellow" transform="grow-5 left-5" /></span> Tailor to local contexts</li>
+                  <li  class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible"><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-route" class="color-cieh-yellow" transform="grow-8 left-5" /></span> Access to diagnostic services  quicker and closer to home</li>
+                  <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible"><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-monitor-waveform" class="color-cieh-yellow" transform="grow-8 left-5" /></span> Enhance diagnostic capacity in primary care</li>
+                  <li><span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-magnifying-glass-location" class="color-cieh-yellow" transform="grow-8 left-5" /></span> Tailor to local contexts</li>
                 </ul>
               </div>
               <ActionLink action_url="info/principle-7" />
@@ -363,7 +366,7 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-8">Facilitate communication across organisations</a>
+                  Facilitate communication across organisations
                 </h2>
               </div>
               <div class="nhsuk-card__content">
@@ -373,7 +376,7 @@
                       <li>
                         <span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-circle-nodes" class="color-cieh-yellow" transform="grow-40 down-50" /></span>
                         <ul class="fa-ul">
-                          <li>Effective transfer of information across systems and services</li>
+                          <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Effective transfer of information across systems and services</li>
                           <li>Consider the diverse needs of different stakeholders</li>
                         </ul>
                       </li>
@@ -384,7 +387,7 @@
                       <li>
                         <span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-laptop-mobile" class="color-cieh-yellow" transform="grow-40 down-50" /></span>
                         <ul class="fa-ul">
-                          <li>Optimise digital communication</li>
+                          <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Optimise digital communication</li>
                           <li>Embed digital communication technologies in well-designed processes</li>
                         </ul>
                       </li>
@@ -423,18 +426,18 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-9">Monitor work-as-done and adapt to achieve sustainable change</a>
+                  Monitor work-as-done and adapt to achieve sustainable change
                 </h2>
               </div>
               <div class="nhsuk-card__content">
                 <ul class="nhsuk-list">
-                  <li>Continuous learning process</li>
+                  <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Continuous learning process</li>
                   <li>Agile and adaptive approach</li>
                 </ul>
                 <figure class="nhsuk-image" style="width: 100%;">
                   <img class="nhsuk-image__img" src="../assets/img/learning-framework.jpg" alt="Diagram showing the CIEHF organisational learning framework for achieving sustainable change.">
                   <figcaption class="nhsuk-image__caption">
-                    The CIEHF organisational learning framework for achieving sustainable change
+                    The CIEHF organisational learning framework for achieving sustainable change.
                   </figcaption>
                 </figure>
               </div>
@@ -453,7 +456,7 @@
                   </FontAwesomeLayers>
                 </div>
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                  <a class="nhsuk-card__link" href="info/principle-10">Record and learn from feedback and events</a>
+                  Record and learn from feedback and events
                 </h2>
               </div>
               <div class="nhsuk-card__content">
@@ -461,10 +464,10 @@
                   <li>
                     <span class="fa-li"><FontAwesomeIcon icon="fa-solid fa-file-pen" class="color-cieh-blue" transform="grow-40 down-60 right-10" /></span>
                     <ul class="fa-ul">
-                      <li>Adverse events and incidents</li>
-                      <li>Patient experience feedback</li>
-                      <li>Patient behaviours</li>
-                      <li>Staff concerns and experience feedback</li>
+                      <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Adverse events and incidents</li>
+                      <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Patient experience feedback</li>
+                      <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Patient behaviours</li>
+                      <li class="nhsuk-u-padding-bottom-3 nhsuk-u-margin-bottom-3 nhsuk-section-break nhsuk-section-break--visible">Staff concerns and experience feedback</li>
                       <li>Staff behaviours</li>
                     </ul>
                   </li>
@@ -522,5 +525,9 @@ export default {
 
 .nhsuk-inset-text {
   border-left-color: $cieh-blue;
+}
+
+.nhsuk-action-link__link .nhsuk-icon__arrow-right-circle {
+  fill: $cieh-blue;
 }
 </style>
